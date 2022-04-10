@@ -30,6 +30,6 @@ button:hover{
 }
 
 .move{
-        transform: translate(-400px, -400px );
+        transform: translate(-100px, -100px );
          transition: 0.01s;
   }
