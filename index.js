@@ -1,5 +1,5 @@
 var loveFunction=function(){
- alert('Tui biết mà, địa tui lâu lắm rồi mà =))');
+ alert('Anh cũng thích em lắm đó đồ ngốc hihi...');
 }
 var noLovefunction=function(){
    var no_love =document.getElementById("no-love");
